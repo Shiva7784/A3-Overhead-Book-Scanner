@@ -2,9 +2,10 @@
 # A3 Overhead Book Scanner - .gitignore
 # ==========================================
 
-# Scanned documents, exported PDFs, and session caches
+# Scanned documents, exported PDFs, and session caches (protect privacy)
 scans/*
 !scans/.gitkeep
+!scans/Sample_A3_Digitized_Register.pdf
 
 # Local test images and sample photos (protect privacy)
 test_images/*
